@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "6192e5f1962f385b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d229c9dcd5abf87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9764d1989fdca9da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/Como enviar um projeto no GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af5da73f0e2b350c",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bca1c116c8fdf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af21df3d372fbee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d3a19c2c9e4e32f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3083c0d2b03d553c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3b467b73c2742d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba75c6d7fc006c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccdf4472aca00057",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub/Como enviar um projeto no GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fb89acbb48ade96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub/Como enviar um projeto no GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a54c571136e793a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7152e0bc04a793d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub/Como enviar um projeto no GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9764d1989fdca9da",
+  "lastOpenFiles": [
+    "GitHub/Como atualizar um projeto.md",
+    "Css/Layout.md",
+    "Css/regras gerais.md",
+    "source_geral/Pasted image 20231228121236.png",
+    "source_geral/Pasted image 20231228120334.png",
+    "source_geral/Pasted image 20231228120132.png",
+    "source_geral/Pasted image 20231228120117.png",
+    "source_geral/Pasted image 20231228120059.png",
+    "source_geral/Pasted image 20231228115930.png",
+    "source_geral/Pasted image 20231228114851.png",
+    "source_geral/Pasted image 20231228114736.png",
+    "source_geral/Pasted image 20231228114553.png",
+    "source_geral/Pasted image 20231228114542.png",
+    "Css/Centralizar elementos em Css.md",
+    "Css/Edição de texto.md",
+    "Css/Fontes.md",
+    "Formulários/Codigo Html - Formulários e input's.md",
+    "Css",
+    "Tabelas/Codigo Html - Tabelas.md",
+    "Tabelas/M1 C18 - Tag IMG.md",
+    "GitHub",
+    "source_geral",
+    "Formulários",
+    "Pasted image 20231130165520.png.md",
+    "Tabelas"
+  ]
+}

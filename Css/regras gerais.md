@@ -1,0 +1,1 @@
+`100vh `  - Utilizando a propriedade vh você pode definir uma base parecida com porcentagem para a altura do seu site
