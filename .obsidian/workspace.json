@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d229c9dcd5abf87",
+        "id": "1f2917bfb2dbeadc",
         "type": "tabs",
         "children": [
           {
-            "id": "9764d1989fdca9da",
+            "id": "a90f15669b3acf59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Como enviar um projeto no GitHub.md",
+                "file": "Css/Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/Como enviar um projeto no GitHub.md",
+                "file": "Css/Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Como enviar um projeto no GitHub.md",
+                "file": "Css/Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/Como enviar um projeto no GitHub.md"
+                "file": "Css/Layout.md"
               }
             }
           }
@@ -146,25 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9764d1989fdca9da",
+  "active": "a90f15669b3acf59",
   "lastOpenFiles": [
-    "GitHub/Como atualizar um projeto.md",
+    "Css/Centralizar elementos em Css.md",
     "Css/Layout.md",
     "Css/regras gerais.md",
-    "source_geral/Pasted image 20231228121236.png",
-    "source_geral/Pasted image 20231228120334.png",
-    "source_geral/Pasted image 20231228120132.png",
-    "source_geral/Pasted image 20231228120117.png",
-    "source_geral/Pasted image 20231228120059.png",
-    "source_geral/Pasted image 20231228115930.png",
-    "source_geral/Pasted image 20231228114851.png",
-    "source_geral/Pasted image 20231228114736.png",
-    "source_geral/Pasted image 20231228114553.png",
-    "source_geral/Pasted image 20231228114542.png",
-    "Css/Centralizar elementos em Css.md",
-    "Css/Edição de texto.md",
+    "source_geral/Pasted image 20231229101053.png",
+    "source_geral/Pasted image 20231229122520.png",
+    "source_geral/Pasted image 20231229122504.png",
+    "source_geral/Pasted image 20231229110229.png",
+    "source_geral/Pasted image 20231229110017.png",
+    "source_geral/Pasted image 20231229104745.png",
+    "source_geral/Pasted image 20231229104733.png",
+    "source_geral/Pasted image 20231229104710.png",
+    "source_geral/Pasted image 20231229101603.png",
+    "source_geral/Pasted image 20231229101555.png",
     "Css/Fontes.md",
+    "Css/Edição de texto.md",
     "Formulários/Codigo Html - Formulários e input's.md",
+    "GitHub/Como atualizar um projeto.md",
+    "GitHub/Como deletar um arquivo do repositório.md",
+    "GitHub/Como enviar um projeto no GitHub.md",
     "Css",
     "Tabelas/Codigo Html - Tabelas.md",
     "Tabelas/M1 C18 - Tag IMG.md",

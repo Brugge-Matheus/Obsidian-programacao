@@ -12,6 +12,8 @@ depois:
 ![[Pasted image 20231227150122.png]]
 
 
+`Display: none;`  - Remove o visual de um item fazendo ele desaparecer
+
 ## Float
 `Float: left;`  - Serve para definir o posicionamento de um item
 antes:
@@ -111,6 +113,12 @@ depois:
 ![[Pasted image 20231228114851.png]]
 
 
+#### `place-items: # #; ` - Define o alinhamento tanto vertical quanto horizontal dos itens
+`center`  - Centraliza os elementos
+`start`  - Alinha a esquerda
+`end`  - Alinha a direita
+`stretch`  - Assim como o "space-arround" ele obriga os itens a utilizarem todo o espaço disponível a ele na vertical e na horizontal
+
 
 ### Elementos dentro dos Flex Itens (child)
 
@@ -131,3 +139,86 @@ depois:
 `flex-end`  - Dita que o elemento deve ficar abaixo
 ![[Pasted image 20231228121236.png]]
 
+
+
+
+### Grid  -  Define o posicionamento dos itens baseado em grade
+
+`grid-template-colums: (nº de colunas, tamanho dessas colunas)`  - Define o tamanho das caixas em forma de coluna
+![[Pasted image 20231229101053.png]]
+![[Pasted image 20231229101107.png]]
+
+
+`repeat(###)` -  É possível definir um item de repetição para que ele se repita em um padrão
+`(4, 200px)`
+![[Pasted image 20231229110017.png]]
+
+
+`(auto-fill, 200px)`  - Define um ajuste automático dependendo do espaço disponível em tela, tornando um elemento responsável
+![[Pasted image 20231229110229.png]]
+
+
+
+
+`grid-template-rows: (nº de linhas, tamanho dessas colunas)` -  Define o tamanho das caixas em forma de linha
+![[Pasted image 20231229101259.png]]
+![[Pasted image 20231229101322.png]]
+
+Também é possível juntar as duas funções
+![[Pasted image 20231229101555.png]]
+![[Pasted image 20231229101603.png]]
+
+
+#### `Justify-items: ;`  - Define o alinhamento horizontal dos elementos
+`center`  - Centraliza os elementos
+`start`  - Alinha a esquerda
+`end`  - Alinha a direita
+`stretch`  - Assim como o "space-arround" ele obriga os itens a utilizarem todo o espaço disponível a ele na horizontal
+
+
+#### `align-items: ;` - Define o alinhamento vertical dos itens
+`center`  - Centraliza os elementos
+`start`  - Alinha a esquerda
+`end`  - Alinha a direita
+`stretch`  - Assim como o "space-arround" ele obriga os itens a utilizarem todo o espaço disponível a ele na vertical
+
+
+#### `justify-content: :`  - Define o alinhamento horizontal da caixa
+`center`  - Centraliza os elementos
+`start`  - Alinha a esquerda
+`end`  - Alinha a direita
+`stretch`  - Assim como o "space-arround" ele obriga os itens a utilizarem todo o espaço disponível a ele na horizontal
+
+
+#### `place-items: #  #; ` - Define o alinhamento tanto vertical quanto horizontal dos itens
+`center`  - Centraliza os elementos
+`start`  - Alinha a esquerda
+`end`  - Alinha a direita
+`stretch`  - Assim como o "space-arround" ele obriga os itens a utilizarem todo o espaço disponível a ele na vertical e na horizontal
+
+
+#### `place-content: #  #; ` - Define o alinhamento tanto vertical quanto horizontal da caixa dos itens
+`center`  - Centraliza os elementos
+`start`  - Alinha a esquerda
+`end`  - Alinha a direita
+`stretch`  - Assim como o "space-arround" ele obriga os itens a utilizarem todo o espaço disponível a ele na vertical e na horizontal
+
+
+
+`grid-template-areas: "name" "name";`  - Define nomes as caixas podendo assim fazer chamadas utilizando esse nomes para definir propriedades
+![[Pasted image 20231229104745.png]]
+
+
+`grid-areas: nome da area`  - Aplica o nome do elemento a ele, (não possui aspas)
+![[Pasted image 20231229104733.png]]
+
+
+É importante prestar atenção nas aspas pois elas definem as colunas então caso deseje colocar duas colunas com quatro itens seria assim: `grid-template-areas: "b a" "c d";`, tendo esse resultado
+![[Pasted image 20231229104710.png]]
+
+
+
+#### `grid-template: [] ;`  - É uma junção do grid-colum e do grid-row, dividindo ambas as propriedades por uma "/"
+
+![[Pasted image 20231229122504.png]]
+![[Pasted image 20231229122520.png]]
