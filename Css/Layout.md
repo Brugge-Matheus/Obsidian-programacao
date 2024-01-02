@@ -101,6 +101,10 @@ depois:
 
 
 
+`baseline` - Alinha os itens baseado no tamanho da box que eles estão colocados 
+
+
+
  `Gap: (#px)`  - Define o espaçamento entre os itens no interior do container
  ![[Pasted image 20231228114553.png]]
 
