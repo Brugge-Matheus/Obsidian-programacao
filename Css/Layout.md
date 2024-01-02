@@ -80,11 +80,14 @@ depois:
 `flex-end ` - Centraliza os elementos a direita
 ![[Pasted image 20231228111528.png]]
 
-`space-arround`  - Distribui os itens com espaços iguais em volta
+`space-arround`  - Distribui os itens com espaços iguais porem com espaços diferentes para as bordas
 ![[Pasted image 20231228111550.png]]
 
 `space-betwen` - Distribui os itens de forma que o primeiro e o ultimo fiquem grudados na borda
 ![[Pasted image 20231228111610.png]]
+
+
+`space-evenly ` - Distribui os itens igualmente incluindo as boras
 
 
 
@@ -222,3 +225,23 @@ Também é possível juntar as duas funções
 
 ![[Pasted image 20231229122504.png]]
 ![[Pasted image 20231229122520.png]]
+
+
+
+
+### Media Queries  - Define regras de css para determinadas situações na pagina, como exemplo disso a responsividade de um site
+
+`@media #`
+`screen and (#)`  - Define determinadas mudanças caso diferentes tamanhos de tela sejam acessados, podendo assim criar regras de css dentro dessa media queries
+![[Pasted image 20240102124005.png]]
+
+`screen and (orientation: landscape or portrait)` - Define mudanças caso o usuario utilize o celular em formato landscape ou portrait, (deitado ou em pé)
+![[Pasted image 20240102170617.png]]
+
+
+#### Breakpoints para utilizar na hora de fazer a responsividade de um site segundo o bootstrap
+
+576px  - Smartphones
+768px - Tablets
+992px - laptops
+1200px - Telas maiores
