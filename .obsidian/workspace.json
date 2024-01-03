@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "6192e5f1962f385b",
+    "id": "29080f703ec7836f",
     "type": "split",
     "children": [
       {
-        "id": "f166c41933410ccb",
+        "id": "c9b411da59263a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "053fa5522451d687",
+            "id": "e86e31fdd197ea20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GitHub/Como atualizar um projeto.md",
-                "mode": "source",
-                "source": false
+                "file": "source_geral/Pasted image 20240102230958.png"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "af5da73f0e2b350c",
+    "id": "72fe9c4bff81e1fd",
     "type": "split",
     "children": [
       {
-        "id": "21bca1c116c8fdf9",
+        "id": "65633f5729030cad",
         "type": "tabs",
         "children": [
           {
-            "id": "5af21df3d372fbee",
+            "id": "10d898853db0f006",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +41,7 @@
             }
           },
           {
-            "id": "4d3a19c2c9e4e32f",
+            "id": "b4e5ed7b4f3fbb8d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "3083c0d2b03d553c",
+            "id": "8c118e19f7371b0f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +67,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "3b467b73c2742d1a",
+    "id": "d8c563a207d94e7c",
     "type": "split",
     "children": [
       {
-        "id": "ba75c6d7fc006c21",
+        "id": "78c5fb61816f7b07",
         "type": "tabs",
         "children": [
           {
-            "id": "ccdf4472aca00057",
+            "id": "fa8755749ad1b0bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/Como atualizar um projeto.md",
+                "file": "source_geral/Pasted image 20240102230958.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +95,19 @@
             }
           },
           {
-            "id": "8fb89acbb48ade96",
+            "id": "12711388c4e13bc4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Como atualizar um projeto.md",
+                "file": "source_geral/Pasted image 20240102230958.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a54c571136e793a2",
+            "id": "ea8016d89ed87dba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +118,12 @@
             }
           },
           {
-            "id": "c7152e0bc04a793d",
+            "id": "110bec767204a17f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/Como atualizar um projeto.md"
+                "file": "source_geral/Pasted image 20240102230958.png"
               }
             }
           }
@@ -146,34 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053fa5522451d687",
+  "active": "10d898853db0f006",
   "lastOpenFiles": [
-    "Css/regras gerais.md",
-    "Css/Centralizar elementos em Css.md",
-    "Css/Edição de texto.md",
-    "Css/Layout.md",
-    "source_geral/Pasted image 20231229101053.png",
-    "source_geral/Pasted image 20231229122520.png",
-    "source_geral/Pasted image 20231229122504.png",
-    "source_geral/Pasted image 20231229110229.png",
-    "source_geral/Pasted image 20231229110017.png",
-    "source_geral/Pasted image 20231229104745.png",
-    "source_geral/Pasted image 20231229104733.png",
-    "source_geral/Pasted image 20231229104710.png",
-    "source_geral/Pasted image 20231229101603.png",
-    "source_geral/Pasted image 20231229101555.png",
-    "Css/Fontes.md",
-    "Formulários/Codigo Html - Formulários e input's.md",
-    "GitHub/Como atualizar um projeto.md",
-    "GitHub/Como deletar um arquivo do repositório.md",
-    "GitHub/Como enviar um projeto no GitHub.md",
-    "Css",
-    "Tabelas/Codigo Html - Tabelas.md",
-    "Tabelas/M1 C18 - Tag IMG.md",
-    "GitHub",
-    "source_geral",
-    "Formulários",
-    "Pasted image 20231130165520.png.md",
-    "Tabelas"
+    "source_geral/Pasted image 20240102231724.png",
+    "source_geral/Pasted image 20240102230958.png",
+    "source_geral/Pasted image 20240102235812.png",
+    "JavaScript/Geral.md",
+    "source_geral/Pasted image 20240102235805.png",
+    "source_geral/Pasted image 20240102235454.png",
+    "source_geral/Pasted image 20240102235447.png",
+    "source_geral/Pasted image 20240102235015.png",
+    "source_geral/Pasted image 20240102235009.png",
+    "source_geral/Pasted image 20240102234632.png",
+    "source_geral/Pasted image 20240102234624.png",
+    "source_geral/Pasted image 20240102233801.png",
+    "HTML/Tabelas/M1 C18 - Tag IMG.md",
+    "HTML/Tabelas/Codigo Html - Tabelas.md",
+    "HTML/Formulários em HTML/Codigo Html - Formulários e input's.md",
+    "HTML",
+    "JavaScript",
+    "Css/Layout.md"
   ]
 }
