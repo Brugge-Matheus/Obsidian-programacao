@@ -170,7 +170,133 @@ Outro exemplo:
 ![[Pasted image 20240102225619.png]]
 
 
-#### Códigos dentro de uma string
+### Switch case  - Consiste em uma instrução de itens a serem executadas
+Estrutura simples:
+`switch (variavel) {`
+	`case 1:`
+			`codigo para valor 1`
+		`break`
+		
+	`case 2:` 
+			`codigo para valor 2`
+		`break`
+		
+	`default:`
+			`codigo para outro valor`
+		`break`
+`}`
+Exemplo pratico:
+![[Pasted image 20240103135124.png]]
+![[Pasted image 20240103135143.png]]
+
+
+
+
+
+Exemplo de estrutura com definição de operação, define operações dentro das cases
+![[Pasted image 20240103134937.png]]
+![[Pasted image 20240103134947.png]]
+
+
+
+
+Exemplo de estrutura com varias cases:
+![[Pasted image 20240103135902.png]]
+![[Pasted image 20240103135910.png]]
+
+
+
+`break`  - Serve para se uma certa alteração for aceita as outras abaixo serão canceladas
+`default`  - Define que se nenhuma das cases sejam escutadas carrega ele, (equivalente ao else)
+
+`true` - Define que um bloco será executado
+
+
+
+### Array  - É um tipo especial de variável que é utilizada para armazenar vários dados em uma variável
+
+Estrutura:
+`let nomes = ["variavel1", "variavel2", "variavel3"]`
+
+##### Formas de apresentar um array:
+`console.log(variavel) ` - Apresenta todos os elementos em formato de código
+
+`console.log(variavel[1])`  - Apresenta o número selecionado na contagem dos itens (**Lembrando que começa em 0**)
+
+`console.table(nomes)`  - Apresenta todos os itens em formato de tabela
+
+
+##### Formar de alterar os dados de um array
+`variavel[1] = '#'`  - Altera um valor em especifico do array
+
+
+##### Quantos elementos tem um array
+`consolo.log(varivel.length)`  - Diz a quantidade de elementos dentro de um array
+
+
+
+##### Adicionar elementos a um array
+
+Ao final
+`variavel.push("#")`  - Adiciona um elemento ao final do array, depois de todos os valores
+
+No início
+`variavel.unshift("#)`  - Adiciona um elemento no inicio do array, antes de todos os valores
+
+
+##### Remover elementos do inicio de um array
+
+`variavel.shift()`  - Remove um elemento do inicio
+
+##### Remover elementos do final de um array
+
+`variavel.pop()`  - Remove um elemento do final
+
+##### Remover elementos de qualquer posição de um array
+
+`variavel.splice(1,2, "#", "#" ,"#")` - Utilizando o splice no array depois definindo de qual a qual item deseja apagar pelo número da sequência, depois ainda adicionando outros valores no lugar
+
+`console.table(variavel)`
+
+Exemplo:
+![[Pasted image 20240103150125.png]]
+![[Pasted image 20240103150134.png]]
+
+
+
+##### Mostrar elementos removidos
+
+`let removido = nomes.pop()`
+`console.log(removido)`
+`console.table(nomes)`
+Apaga um dado e mostra no console.log 
+
+
+Também é possível mostrar itens removidos no formato splice
+![[Pasted image 20240103150345.png]]
+![[Pasted image 20240103150327.png]]
+
+
+[  ]  - Seleciona um valor em especifico
+
+
+
+##### Ordenar um array de forma ascendente - Importante - altera a estrutura do array
+
+`variavel.sort()
+`console.table(nomes)`
+
+
+#### Ordenar um array de forma decrescente - Importante - altera a estrutura do array
+
+`variavel.sort().reverse()`
+`console.table(variavel)`
+
+
+
+
+
+### Códigos dentro de uma string
 
 `/n`  - Define uma quebra de linha em uma frase
 

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b411da59263a6f",
+        "id": "1b1c761ffa931356",
         "type": "tabs",
         "children": [
           {
-            "id": "e86e31fdd197ea20",
+            "id": "fe8e054b8440456d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source_geral/Pasted image 20240102230958.png"
+                "file": "JavaScript/Geral.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_geral/Pasted image 20240102230958.png",
+                "file": "JavaScript/Geral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_geral/Pasted image 20240102230958.png",
+                "file": "JavaScript/Geral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_geral/Pasted image 20240102230958.png"
+                "file": "JavaScript/Geral.md"
               }
             }
           }
@@ -136,28 +138,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "10d898853db0f006",
+  "active": "fe8e054b8440456d",
   "lastOpenFiles": [
-    "source_geral/Pasted image 20240102231724.png",
-    "source_geral/Pasted image 20240102230958.png",
-    "source_geral/Pasted image 20240102235812.png",
+    "source_geral/Pasted image 20240103150345.png",
     "JavaScript/Geral.md",
-    "source_geral/Pasted image 20240102235805.png",
-    "source_geral/Pasted image 20240102235454.png",
-    "source_geral/Pasted image 20240102235447.png",
-    "source_geral/Pasted image 20240102235015.png",
-    "source_geral/Pasted image 20240102235009.png",
-    "source_geral/Pasted image 20240102234632.png",
-    "source_geral/Pasted image 20240102234624.png",
-    "source_geral/Pasted image 20240102233801.png",
+    "source_geral/Pasted image 20240103150327.png",
+    "source_geral/Pasted image 20240103150134.png",
+    "source_geral/Pasted image 20240103150125.png",
+    "source_geral/Pasted image 20240103134937.png",
+    "source_geral/Pasted image 20240103135910.png",
+    "source_geral/Pasted image 20240103135902.png",
+    "source_geral/Pasted image 20240103135143.png",
+    "source_geral/Pasted image 20240103135124.png",
+    "source_geral/Pasted image 20240103134947.png",
     "HTML/Tabelas/M1 C18 - Tag IMG.md",
     "HTML/Tabelas/Codigo Html - Tabelas.md",
     "HTML/Formulários em HTML/Codigo Html - Formulários e input's.md",
