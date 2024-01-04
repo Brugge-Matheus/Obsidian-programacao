@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d8c563a207d94e7c",
@@ -138,27 +138,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "fe8e054b8440456d",
   "lastOpenFiles": [
-    "source_geral/Pasted image 20240103150345.png",
+    "source_geral/Pasted image 20240103221639.png",
     "JavaScript/Geral.md",
-    "source_geral/Pasted image 20240103150327.png",
-    "source_geral/Pasted image 20240103150134.png",
-    "source_geral/Pasted image 20240103150125.png",
-    "source_geral/Pasted image 20240103134937.png",
-    "source_geral/Pasted image 20240103135910.png",
-    "source_geral/Pasted image 20240103135902.png",
-    "source_geral/Pasted image 20240103135143.png",
-    "source_geral/Pasted image 20240103135124.png",
-    "source_geral/Pasted image 20240103134947.png",
+    "source_geral/Pasted image 20240103221631.png",
+    "source_geral/Pasted image 20240103221216.png",
+    "source_geral/Pasted image 20240103221207.png",
+    "source_geral/Pasted image 20240103220625.png",
+    "source_geral/Pasted image 20240103220617.png",
+    "source_geral/Pasted image 20240103220333.png",
+    "source_geral/Pasted image 20240103212343.png",
+    "source_geral/Pasted image 20240103212336.png",
+    "source_geral/Pasted image 20240103211603.png",
     "HTML/Tabelas/M1 C18 - Tag IMG.md",
     "HTML/Tabelas/Codigo Html - Tabelas.md",
     "HTML/Formulários em HTML/Codigo Html - Formulários e input's.md",

@@ -308,3 +308,89 @@ Também é possível mostrar itens removidos no formato splice
 `.indexOf('item que deseja verificar')`  - Analisa se um item citado esta presente em uma variável
 ![[Pasted image 20240102223046.png]]
 
+
+
+
+### Ciclos, Loops e Iterações
+
+#### While  - Enquanto a condição for verdadeira ele executara uma ação infinitamente (enquanto)
+
+Estrutura básica
+`While(variavel) {`
+	`codigo a ser executado`
+`}`
+Exemplo:
+![[Pasted image 20240103211139.png]]
+![[Pasted image 20240103211148.png]]
+
+
+
+
+#### Do - executa a ação pelo menos uma vez e depois o loop de verificação é feito
+
+Exemplo:
+![[Pasted image 20240103211555.png]]
+![[Pasted image 20240103211603.png]]
+
+
+
+#### for  - Define que a partir de algo ele ira executar uma certa ação
+
+Estrutura:
+`for(iniciação; condição; incremento){`
+	`código a executar`
+`}`
+
+Exemplo:
+![[Pasted image 20240103212336.png]]
+![[Pasted image 20240103212343.png]]
+
+
+#### for...in - Serve para percorrer ou iterar chaves/propriedades em uma sequência fazendo uma ação ou análise
+
+
+
+#### for...of - Serve para percorrer ou iterar sobre valores dos elementos em uma sequência fazendo uma ação ou análise
+
+Estrutura:
+`let valores = [1,2,3,4]`
+`for(let valor of valores) {`
+	`console.log(valor)`
+`}`
+
+
+#### foreach  - 
+
+
+
+
+### funções  -  Serve para excetuar uma ação a partir de outra ação
+
+Estrutura:
+`function nome_da_funcao(){`
+	`codigo dentro da função`
+`}`
+![[Pasted image 20240103220333.png]]
+
+
+#### Função com parâmetros  - Podem ser definidos parâmetros diferentes para a mesma função
+
+Exemplo:
+![[Pasted image 20240103220617.png]]
+![[Pasted image 20240103220625.png]]
+
+
+
+#### Parâmetro e retorno  - Define parâmetros gerais e retorna esses valores, sendo possível depois adicionar valores a esses parâmetros utiliza-los
+
+Exemplo:
+![[Pasted image 20240103221207.png]]
+![[Pasted image 20240103221216.png]]
+
+
+
+#### Parâmetro com valor padrão  - É criado um valor padrão para um parâmetro, porem quando outro valor é adicionado ele substitui o padrão
+
+Exemplo:
+![[Pasted image 20240103221631.png]]
+![[Pasted image 20240103221639.png]]
