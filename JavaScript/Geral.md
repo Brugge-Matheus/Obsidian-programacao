@@ -394,3 +394,104 @@ Exemplo:
 Exemplo:
 ![[Pasted image 20240103221631.png]]
 ![[Pasted image 20240103221639.png]]
+
+
+
+#### Function Expressions  - Uma variável que vai ser uma função (Não eh muito utilizado, usar arrow)
+
+Estrutura:
+`let funcao = function(){`
+	`console.log("Texto da função")`
+`}`
+`funcao()`
+![[Pasted image 20240104092919.png]]
+
+
+
+
+
+
+
+
+#### Arrow Functions  -  Uma forma moderna de declarar uma variável com uma função
+
+Estrutura:
+![[Pasted image 20240104093438.png]]
+
+
+
+#### Arrow Functions parâmetros  - arrow functions com parâmetros 
+
+Estrutura:
+![[Pasted image 20240104094001.png]] 
+
+Outro exemplo:
+![[Pasted image 20240104094630.png]]
+
+
+
+#### Escopo de variáveis  
+
+Escopo Global  - Se tratam de variáveis que foram definidas fora de blocos e valem para qualquer lugar do código
+Ex:
+![[Pasted image 20240104100519.png]]
+![[Pasted image 20240104100528.png]]
+
+
+Escopo local  - Se trata de variáveis que foram definidas dentro de um bloco, e é valida somente para o mesmo
+Ex:
+![[Pasted image 20240104100758.png]]
+![[Pasted image 20240104100805.png]]
+
+
+
+
+
+#### Objetos em JavaScript  - Se trata de uma coleção de valores nomeados por propriedades e métodos
+
+Regras:
+`:  ,`  - Depois do nome das propriedades e depois dos nomes das funções sempre dois pontos, depois de finalizar uma propriedade ou um método sempre usar virgula
+
+`this`  - Serve para se referir a uma propriedade dentro do objeto
+
+
+`.`  - Quando for apresentar o objeto sempre relacionar o nome do objeto aos dados dele por ponto
+Ex: `console.log(nome_do_objeto.nome_da_função());`
+
+
+Exemplo de estrutura de um objeto:
+![[Pasted image 20240104112605.png]]
+
+
+##### Como apresentar esse objeto
+![[Pasted image 20240104113832.png]]
+![[Pasted image 20240104113856.png]]
+
+
+##### Adicionar ou alterar uma propriedades a um objeto  
+
+Estrutura  - utilizando o ponto pode adicionar ou editar uma propriedade
+![[Pasted image 20240104115044.png]]
+![[Pasted image 20240104115141.png]]
+
+
+##### Deletar uma propriedade de um objeto
+![[Pasted image 20240104120547.png]]
+![[Pasted image 20240104120558.png]]
+
+
+
+
+##### Criar um novo objeto a partir de outro objeto
+![[Pasted image 20240104120417.png]]
+![[Pasted image 20240104120428.png]]
+
+
+
+
+
+
+
+
+
+
