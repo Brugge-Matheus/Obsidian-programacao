@@ -102,8 +102,8 @@ Guardar um resultado em uma nova variável
 `A != B` - Se o valor A não é igual ao valor de B
 `A < B `- Se o valor A é menor que B
 `A > B` - Se o valor de A é maior que B
-`A >= B` - Se A é menor ou igual a B
-`A <= B` - Se A é maior igual a B
+`A <= B` - Se A é menor ou igual a B
+`A >= B` - Se A é maior igual a B
 Exemplo:
 ![[Pasted image 20240102230958.png]]
 ![[Pasted image 20240102231012.png]]
@@ -359,12 +359,19 @@ Estrutura:
 `}`
 
 
-#### foreach  - 
+#### foreach  - Serve para percorrer os itens que foram selecionados 
+-Executando propriedades pre definidas, são elas: (nome do item, contagem do item e valores totais do item)
+
+Exemplo:
+
+![[Pasted image 20240107213842.png]]
+![[Pasted image 20240107213832.png]]
 
 
 
 
-### funções  -  Serve para excetuar uma ação a partir de outra ação
+
+### funções  -  Serve para executar uma ação a partir de outra ação
 
 Estrutura:
 `function nome_da_funcao(){`

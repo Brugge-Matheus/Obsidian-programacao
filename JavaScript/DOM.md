@@ -106,11 +106,53 @@ Ex:
 
 
 
+### Cria e remover elementos
+
+Estrutura:
+
+`document.createElement('tag que deseja criar')` - cria um novo elemento
+
+`nome_do_elemento.innerText = 'Texto para o elemento'` ou `.textContent = 'texto_do_paragrafo'` - Atribui um texto a um elemento
+
+`document.body.appendChild(nome_do_elemento)`  - Adiciona o elemento ao body
+
+`nome_do_elemento_pai.appendChild(nome_do_elemento)` - Adiciona um elemento a um elemento (ex: um h1 a uma div)
+![[Pasted image 20240105225529.png]]
+
+Exemplo de utilização:
+
+![[Pasted image 20240105230625.png]]
+![[Pasted image 20240105231055.png]]
+
+
+
+#### Adicionar um elemento antes - Utilizando a propriedade `prepend` é possível adicionar um item antes de outro
+
+![[Pasted image 20240107015827.png]]
+![[Pasted image 20240107020010.png]]
+
+
+
+#### Adicionar um elemento depois  - Utilizando a propriedade `append` é possível adicionar um item depois de outro
+![[Pasted image 20240107020055.png]]
+![[Pasted image 20240107020120.png]]
+
+
+
+#### Outra forma de fazer a realocação do local do elemento
+
+-Utilizando a tag `insertAdjacentHTML` e as propriedades mostradas abaixo é possível alterar o posicionamento do item
+
+![[Pasted image 20240107021703.png]]
+![[Pasted image 20240107021827.png]]
 
 
 
 
+#### Remover itens em JavaScript
 
+Usando a função remove pode-se remover itens
+![[Pasted image 20240107022011.png]]
 
 
 

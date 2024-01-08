@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "010b63bdcef61481",
+        "id": "4d276944ba38725a",
         "type": "tabs",
         "children": [
           {
-            "id": "bda03ec1b4a157dd",
+            "id": "9b8519713620b29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/DOM.md",
+                "file": "JavaScript/Validação de formulários.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09ede6f018dc68b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/DOM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16d2da0aae64f7ae",
+            "id": "1c72cd3ecdcbc2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,29 +151,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "16d2da0aae64f7ae",
+  "active": "1c72cd3ecdcbc2ab",
   "lastOpenFiles": [
-    "JavaScript/DOM.md",
-    "JavaScript/Geral.md",
+    "JavaScript/Validação de formulários.md",
     "JavaScript/Propriedades.md",
-    "source_geral/Pasted image 20240105092619.png",
-    "source_geral/Pasted image 20240105092610.png",
-    "source_geral/Pasted image 20240105092602.png",
-    "source_geral/Pasted image 20240105092555.png",
-    "source_geral/Pasted image 20240105092546.png",
-    "source_geral/Pasted image 20240105092538.png",
-    "source_geral/Pasted image 20240105092527.png",
-    "source_geral/Pasted image 20240105092516.png",
-    "source_geral/Pasted image 20240105092508.png",
-    "source_geral/Pasted image 20240105092501.png",
+    "JavaScript/Geral.md",
+    "JavaScript/DOM.md",
+    "JavaScript/Eventos em DOM.md",
+    "source_geral/Pasted image 20240107225234.png",
+    "Pasted image 20240107225135.png",
+    "source_geral/Pasted image 20240107223003.png",
+    "source_geral/Pasted image 20240107222931.png",
+    "source_geral/Pasted image 20240107213842.png",
+    "source_geral/Pasted image 20240107213832.png",
+    "Pasted image 20240107213650.png",
+    "source_geral/Pasted image 20240107191024.png",
+    "source_geral/Pasted image 20240107190950.png",
+    "source_geral/Pasted image 20240107185758.png",
     "Css/regras gerais.md",
     "JavaScript/Dom",
     "Css/Layout.md",
